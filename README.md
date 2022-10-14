@@ -40,6 +40,6 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p4sjvpn7uel37pwbdokeprkvzi&count={3})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p4sjvpn7uel37pwbdokeprkvzi&count=3)
 
 ###
