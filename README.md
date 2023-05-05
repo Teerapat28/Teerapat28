@@ -47,3 +47,9 @@
 </div>
 
 ###
+  
+  <h4 align="left">website that has been developed ⌨️ 💻 👨🏻‍💻</h4>
+  <h4 align="left">👉 http://jaijaikan.com/</h4>
+  <h4 align="left">👉 https://lesssolutionasia.com/</h4>
+
+###
