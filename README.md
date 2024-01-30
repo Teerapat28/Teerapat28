@@ -49,9 +49,12 @@
 </div>
 
 ###
-  
-  <h3 align="left">website that has been developed ⌨️ 💻 👨🏻‍💻</h3>
-  <h4 align="left">👉 http://jaijaikan.com/</h4>
-  <h4 align="left">👉 https://lesssolutionasia.com/</h4>
+
+<div align="left"> 
+  <h3>My website ⌨️ 💻 👨🏻‍💻</h3>
+  <a href="https://pooh-webdev.netlify.app" target="_blank">
+  <h4>👉 pooh-webdev.netlify.app</h4>
+  </a>
+</div>
 
 ###
