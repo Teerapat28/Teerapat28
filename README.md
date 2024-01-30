@@ -52,9 +52,7 @@
 
 <div align="left"> 
   <h3>My website ⌨️ 💻 👨🏻‍💻</h3>
-    <a href="pooh-webdev.netlify.app" target="_blank">
-      <h4>👉 pooh-webdev.netlify.app</h4>
-    </a>
+    <h4>👉 https://pooh-webdev.netlify.app/</h4>
 </div>
 
 ###
